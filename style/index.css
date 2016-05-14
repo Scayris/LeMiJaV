@@ -1,0 +1,13 @@
+
+.card-size {
+	width: 320pt;
+	min-height: 320pt;
+}
+
+.card-margins {
+	margin: 20pt;
+}
+
+.card > .mdl-card__title {
+	color: #fff;
+}
